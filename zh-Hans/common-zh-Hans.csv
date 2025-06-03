@@ -1,0 +1,2 @@
+key,value,comment
+COMMON_KINETIC_DAMAGE,"{0}动能{1}伤害","Kinetic damage type label, {0}, {1} are markers for damage color highlight"
