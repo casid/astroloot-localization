@@ -1,0 +1,1 @@
+# astroloot-localization
