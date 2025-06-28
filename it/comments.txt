@@ -1,0 +1,13 @@
+boon-it.csv
+	%_OF_THE_MOON_KING, can be translate into:
+		Re Lunare - Lunar King, it's more poetic.
+		Re della Luna - King of the Moon, it claims possession of the moon and possibly more alike the Deutsch version
+	BOON_HIDE_OF_KING_GRUVAK, can be translated into:
+		Pelle di Re Gruvak - Skin of King Gruvak, perhaps more alike the Deutsch translation.
+		Cuoio di Re Gruvak - Leather of King Gruvak, has more of a worked on meaning.
+		Pelliccia di Re Gruvak - Hide(Fur) of King Gruvak, if Gruvak is an animal, hide becomes tighted to the concept of fur, therefore mantle/coat.
+	BOON_VAULT_OF_LAZURITH, can be translated into:
+		Tesoro di Lazurith - Treasure of Lazurith, more alike the Deutsch translation.
+		Ricchezze di Lazurith - Riches of Lazurith, if Vault puts emphasis on its content.
+		Volta di Lazurith - Vault of Lazurith, if Vault is more of a storage boon than treasure.
+	
