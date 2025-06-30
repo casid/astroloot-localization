@@ -10,4 +10,18 @@ boon-it.csv
 		Tesoro di Lazurith - Treasure of Lazurith, more alike the Deutsch translation.
 		Ricchezze di Lazurith - Riches of Lazurith, if Vault puts emphasis on its content.
 		Volta di Lazurith - Vault of Lazurith, if Vault is more of a storage boon than treasure.
-	
+ui-it.csv
+	UI_SETTINGS_CONTROLS_CONTROLLER_DEADZONE
+		Zona-morta - not sure if it should be translate, just like 'UI'
+	UI_SETTINGS_CONTROLS_KEYBOARD_SCREENSHOT
+		Can be translated to -> Capture Screen, but don't think it's that neccessary
+	UI_SETTINGS_SHIP_PERSONAL_STASH
+		Usa Collezione Personale -> if stash means collection, can be translated to "Scorta", which means more like "Extra stuff" or "Reserve"
+	UI_DELETE_BUTTON
+		can be both "Elimina"(Erase), "Cancella"(Cancel) - depends on its context
+	UI_CANCEL_BUTTON
+		Cancel can be translate into "Annulla"(cancel action), or "Torna Indietro"(Go back) - depends on its context
+	UI_DELETE_GAME_HEADLINE
+		is this ingame? Or where
+	UI_SHIP_DESCRIPTION_LEVIATHAN
+		Tanky Brute -> can be reduced to "Bruto", Tanky doesn't have a 1:1 translation unless it means "Armoured"
