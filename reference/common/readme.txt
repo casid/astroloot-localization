@@ -1,0 +1,3 @@
+Common
+
+This module contains text for common texts that are not really related to any module. To be honest, I should probably have merged UI + COMMON into one module, but it is at it is now...
