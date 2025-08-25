@@ -611,6 +611,7 @@ ATTRIBUTE_REDUCED_PARASITE_SPAWN_RANGE,"寄生体生成范围降低 {0}","{0}=pe
 ATTRIBUTE_ROCKETS_EXPLODE_ON_LIFETIME_END,"火箭存在时间耗尽后会爆炸","","Rockets explode when their lifetime is over"
 ATTRIBUTE_ROCKETS_DEAL_MORE_DAMAGE_PER_LIFETIME,"火箭存在时间总增其爆炸伤害，上限为 {0}","{0}=percentage","Rocket Explosions deal more damage with lifetime, up to {0}"
 ATTRIBUTE_SINGULARITY,"嵌入{0}的芯片槽\n可无视天赋树连接分配","{0}=item name","Any Chip Socket holding {0}\ncan be allocated without skill tree linkage"
+ATTRIBUTE_SINGULARITY_V2,"嵌入{0}的芯片槽\n可无视天赋树连接分配","{0}=item name","{0} can be allocated anywhere\nStarts a separate Skill Tree branch"
 ATTRIBUTE_ALLOCATES_SKILL,"分配 {0}","{0}=name of skill","Allocates {0}"
 ATTRIBUTE_MOD_SLOT_ONE,"具有 {0} 个修饰符槽​","{0}=amount","Has {0} modifier slot"
 ATTRIBUTE_MOD_SLOT_MANY,"具有 {0} 个修饰符槽​","{0}=amount","Has {0} modifier slots"
