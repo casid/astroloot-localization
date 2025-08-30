@@ -1,7 +1,7 @@
 key,value,comment,english
 MMSKILL_RARITY,"稀有度","Skill node","Rarity"
 MMSKILL_EXPERIENCE,"经验","Skill node","Experience"
-MMSKILL_SECTOR_RANK,"星区​等级","Skill node","Sector Rank"
+MMSKILL_SECTOR_RANK,"星区阶级","Skill node","Sector Rank"
 MMSKILL_SECTOR_CHANCE,"星区​几率","Skill node","Sector Chance"
 MMSKILL_MONSTER_LEVEL,"怪物等级","Skill node","Monster Level"
 MMSKILL_MONSTROSITY,"庞然巨物","Skill node","Monstrosity"
@@ -63,7 +63,7 @@ MMSKILL_AMPLIFIER_OF_THE_MACHINE,"机器放大器","Skill node","Amplifier of th
 MMSKILL_EXPLORER_OF_THE_DEEP,"深层探索家","Skill node","Explorer of the Deep"
 MMSKILL_PHOTOLITHOGRAPHY,"光刻法","Skill node","Photolithography"
 MMSKILL_TWIN_DICE,"双生骰​子","Skill node","Twin Dice"
-MMSKILL_UNIQUE_SECTOR_RARITY,"独特星区​稀有度","Skill node","Unique Sector Rarity"
+MMSKILL_UNIQUE_SECTOR_RARITY,"独特星区稀有度","Skill node","Unique Sector Rarity"
 MMSKILL_NON_UNIQUE_SECTOR_RARITY,"非独特星区​稀有度","Skill node","Non-unique Sector Rarity"
 MMSKILL_TALE_OF_LEGENDS,"传奇轶事","Skill node","Tale of Legends"
 MMSKILL_TALE_OF_REALITY,"现实轶事","Skill node","Tale of Reality"
