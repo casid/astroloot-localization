@@ -65,7 +65,7 @@ MISSION_DESTROY_ENEMY_WAVES_OBJECTIVE,"击退 {0} 波敌军","Objective, {0}=amo
 MISSION_FIND_TURTLE_EGGS_OBJECTIVE_ONE,"找到 {0} 个海龟蛋","Objective, {0}=amount-singular","Find {0} Turtle Egg"
 MISSION_FIND_TURTLE_EGGS_OBJECTIVE_MANY,"找到 {0} 个海龟蛋","Objective, {0}=amount-plural","Find {0} Turtle Eggs"
 MISSION_RESCUE_TURTLE_OBJECTIVE,"歼灭所有敌人并拯救海龟商人","Objective","Destroy all enemies and rescue the Trader Turtle"
-MISSION_SURVIVE_OBJECTIVE,"坚持 {0} 秒","Objective, {0}=x seconds","Survive {0}"
+MISSION_SURVIVE_OBJECTIVE,"坚持 {0}","Objective, {0}=x seconds","Survive {0}"
 MISSION_UNLOCK_STASH_OBJECTIVE,"歼灭所有敌人并夺回物资","Objective","Destroy all enemies and salvage your Stash"
 MISSION_NIHALOR_CHAMBER_OBJECTIVE,"深入密室","Objective","Descend into the Chamber"
 MISSION_KIKI_FALLEN_KNIGHT_OBJECTIVE,"协助琪琪洗劫陨落骑士之墓","Objective","Help Kiki to raid the Tomb of the Fallen Knight"
