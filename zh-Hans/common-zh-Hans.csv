@@ -126,3 +126,5 @@ COMMON_MESSAGE_QUEST_ITEMS_MISSING_ONE,"要开启传送门，我需要先找到�
 COMMON_MESSAGE_QUEST_ITEMS_MISSING_MANY,"要开启传送门，我需要先找到这些任务物品：{0}","{0}=quest items comma separated","I need to find these quest items to open the portal: {0}"
 COMMON_MESSAGE_MISSION_ALREADY_COMPLETED,"我已完成此任务。","","I have already completed this mission."
 COMMON_MESSAGE_SECTOR_COMPLETED,"{0}已被弹珠机使用。","{0}=sector name","{0} has been consumed by the Marble Machine."
+COMMON_PREFIXES,"前缀","Section title for prefix selection","Prefixes"
+COMMON_SUFFIXES,"后缀","Section title for suffix selection","Suffixes"
