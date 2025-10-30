@@ -75,7 +75,7 @@ GLOSSARY_VIRAL_ENEMIES_DESCRIPTION,"至少被施加了一个病毒的敌人。",
 GLOSSARY_VIRUS,"病毒","","Virus|Viruses"
 GLOSSARY_VIRUS_DESCRIPTION,"病毒入侵敌人并削弱它们的系统。默认每个敌人最多感染 1 种病毒。","","A Virus hacks enemies and weakens their system. By default, there is a maximum of 1 Virus per enemy."
 GLOSSARY_FIELD,"力场","","Field"
-GLOSSARY_FIELD_DESCRIPTION,"力场为你与附近友方提供增益效果。","","Fields apply a Buff to you and nearby allies."
+GLOSSARY_FIELD_DESCRIPTION,"力场为你与附近友方提供增益效果。\n\n相同类型的力场不会叠加，只有等级最高的力场会生效。","","Fields apply a Buff to you and nearby allies.\n\nFields of the same type do not stack, the highest-level one takes effect."
 GLOSSARY_VENOM_BOOST,"剧毒增幅","","Venom Boost"
 GLOSSARY_VENOM_BOOST_DESCRIPTION,"每层剧毒增幅使持续伤害提高 {0}。","{0)=percentage","Each Venom Boost grants {0} increased Damage over Time."
 GLOSSARY_TURBO_BOOST,"涡轮增幅","","Turbo Boost"
