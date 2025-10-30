@@ -21,7 +21,7 @@ GLOSSARY_MASS_DESCRIPTION,"每点赋予：\n\n{0} 护甲提高\n{1} {2}动能{3}
 GLOSSARY_ENERGY,"能量","Used as title and search string in Glossary","Energy"
 GLOSSARY_ENERGY_DESCRIPTION,"每点赋予：\n\n{0} 偏转护盾提高\n{1} 冲刺充能加速\n{2} {3}热能{4}伤害总增","Used as description for Energy\n{0}=increased deflector shield, for instance 1%\n{1}=faster dash recharge, for instance 1%\n{2}=more thermal damage, for instance 1%\n{3,4}=damage color marker","Each point grants:\n\n{0} increased Deflector Shield\n{1} faster Dash Recharge\n{2} more {3}Thermal{4} Damage"
 GLOSSARY_TIME,"时间","Used as title and search string in Glossary","Time"
-GLOSSARY_TIME_DESCRIPTION,"每点赋予：\n\n{0}+ 你战舰周围的时间流速，此效果覆盖 {1} 范围内的一切事物——包括你自己、敌人和投射物。","Used as description for Time\n{0}=speedup per time, e.g. 1%\n{1}=range around the player affected by time, e.g. 300","Each point grants:\n\n{0} faster flow of time around your ship, speeding up everything in {1} range - including you, enemies, and projectiles."
+GLOSSARY_TIME_DESCRIPTION,"每点赋予：\n\n{0}+ 你战舰周围的时间流速，此效果覆盖 {1} 范围内的一切事物——包括你自己、敌人和投射物。\n\n你的召唤物和寄生体会继承你的时间。","Used as description for Time\n{0}=speedup per time, e.g. 1%\n{1}=range around the player affected by time, e.g. 300","Each point grants:\n\n{0} faster flow of time around your ship, speeding up everything in {1} range - including you, enemies, and projectiles.\n\nTime is inherited by your Minions and Parasites."
 GLOSSARY_DEFLECTOR_SHIELD,"偏转护盾","","Deflector Shield"
 GLOSSARY_DEFLECTOR_SHIELD_DESCRIPTION,"偏转护盾保护你的护甲免受伤害。\n偏转护盾会在 {0} 未受到伤害后充能。核能伤害天然无视偏转护盾。","{0}=2 seconds","Deflector Shield protects your Armor from taking damage.\nDeflector Shield recharges after {0} of not taking damage. Nuclear Damage inherently bypasses Deflector Shield."
 GLOSSARY_VELOCITY,"行进速度","","Velocity"
