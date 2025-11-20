@@ -436,6 +436,8 @@ ATTRIBUTE_INCREASED_DAMAGE_FOR_INITIAL_HITS_PER_SPLIT,"Initial hits deal {0} inc
 ATTRIBUTE_REDUCED_DAMAGE_FOR_INITIAL_HITS_PER_SPLIT,"Initial hits deal {0} reduced damage per Split","{0}=percentage","Initial hits deal {0} reduced damage per Split"
 ATTRIBUTE_MORE_FIELD_EFFECT,"{0} more effect of your Fields","{0}=percentage","{0} more effect of your Fields"
 ATTRIBUTE_LESS_FIELD_EFFECT,"{0} less effect of your Fields","{0}=percentage","{0} less effect of your Fields"
+ATTRIBUTE_INCREASED_FIELD_EFFECT,"{0} increased effect of your Fields","{0}=percentage","{0} increased effect of your Fields"
+ATTRIBUTE_REDUCED_FIELD_EFFECT,"{0} reduced effect of your Fields","{0}=percentage","{0} reduced effect of your Fields"
 ATTRIBUTE_INCREASED_FIELD_RANGE,"{0} increased range of your Fields","{0}=percentage","{0} increased range of your Fields"
 ATTRIBUTE_REDUCED_FIELD_RANGE,"{0} reduced range of your Fields","{0}=percentage","{0} reduced range of your Fields"
 ATTRIBUTE_INCREASED_DAMAGE_PER_FIELD,"{0} increased Damage per Field","{0}=percentage","{0} increased Damage per Field"

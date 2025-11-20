@@ -48,6 +48,7 @@ ITEM_CHIP_DESCRIPTION,"可放入技能树芯片槽","Description of Chip items",
 ITEM_SECTOR_CHIP,"星区芯片","item name","Sector Chip"
 ITEM_SECTOR_CHIP_DESCRIPTION,"可放入弹珠机技能树槽位","Description of Sector Chip items","Fits into a Socket on the Marble Machine Skill Tree"
 ITEM_CRIT_RIPPER,"暴击开膛手","item name","Crit Ripper"
+ITEM_EMPOWERED_CRIT_RIPPER,"充能暴击开膛手","item name","Empowered Crit Ripper"
 ITEM_DRONE_MASTER,"无人机大师","item name","Drone Master"
 ITEM_EMPOWERED_CHIP,"充能芯片","item name","Empowered Chip"
 ITEM_SINGULARITY,"奇点","item name","Singularity"

@@ -436,6 +436,8 @@ ATTRIBUTE_INCREASED_DAMAGE_FOR_INITIAL_HITS_PER_SPLIT,"每次分裂使初始命�
 ATTRIBUTE_REDUCED_DAMAGE_FOR_INITIAL_HITS_PER_SPLIT,"每次分裂使初始命中降低 {0} 伤害","{0}=percentage","Initial hits deal {0} reduced damage per Split"
 ATTRIBUTE_MORE_FIELD_EFFECT,"你的力场效果总增 {0}","{0}=percentage","{0} more effect of your Fields"
 ATTRIBUTE_LESS_FIELD_EFFECT,"你的力场效果总降 {0}","{0}=percentage","{0} less effect of your Fields"
+ATTRIBUTE_INCREASED_FIELD_EFFECT,"你的力场效果提高 {0}","{0}=percentage","{0} increased effect of your Fields"
+ATTRIBUTE_REDUCED_FIELD_EFFECT,"你的力场效果降低 {0}","{0}=percentage","{0} reduced effect of your Fields"
 ATTRIBUTE_INCREASED_FIELD_RANGE,"你的力场范围提高 {0}","{0}=percentage","{0} increased range of your Fields"
 ATTRIBUTE_REDUCED_FIELD_RANGE,"你的力场范围降低 {0}","{0}=percentage","{0} reduced range of your Fields"
 ATTRIBUTE_INCREASED_DAMAGE_PER_FIELD,"每个力场提高 {0} 伤害","{0}=percentage","{0} increased Damage per Field"
