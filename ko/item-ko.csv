@@ -100,6 +100,8 @@ ITEM_ASTRAL_DICE_DESCRIPTION,"비-고유 아이템을 파괴하여 무작위 접
 ITEM_ASTRAL_DICE_DESCRIPTION_BLUEPRINT_HINT,"비-고유 섹터를 파괴하여 청사진을 추출합니다","","Destroy a non-unique sector to extract its Blueprint"
 ITEM_BLANK_DICE,"빈 주사위","item name","Blank Dice"
 ITEM_BLANK_DICE_DESCRIPTION,"비-고유 아이템의 희귀도를 {0}일반{1}으로 변경합니다","{0,1}=color","Change rarity of non-unique item to {0}common{1}"
+ITEM_BLANK_DICE_COUNT_ONE,"{0} 빈 주사위","{0}=amount","{0} Blank Dice"
+ITEM_BLANK_DICE_COUNT_MANY,"{0} 빈 주사위","{0}=amount","{0} Blank Dice"
 ITEM_INFINITY_DICE,"무한 주사위","item name","Infinity Dice"
 ITEM_INFINITY_DICE_DESCRIPTION,"{0}고유{1} 아이템의 등급을 업그레이드합니다","{0,1}=color","Upgrade tier of a {0}unique{1} item"
 ITEM_JINX_DICE,"징크스 주사위","item name","Jinx Dice"

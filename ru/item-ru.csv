@@ -100,6 +100,8 @@ ITEM_ASTRAL_DICE_DESCRIPTION,"Уничтожают неуникальный пр
 ITEM_ASTRAL_DICE_DESCRIPTION_BLUEPRINT_HINT,"Уничтожают неуникальный сектор, чтобы извлечь его чертеж","","Destroy a non-unique sector to extract its Blueprint"
 ITEM_BLANK_DICE,"Пустые кости","item name","Blank Dice"
 ITEM_BLANK_DICE_DESCRIPTION,"Меняют редкость предмета с неуникальной на {0}обычную{1}","{0,1}=color","Change rarity of non-unique item to {0}common{1}"
+ITEM_BLANK_DICE_COUNT_ONE,"{0} Пустые кости","{0}=amount","{0} Blank Dice"
+ITEM_BLANK_DICE_COUNT_MANY,"{0} Пустые кости","{0}=amount","{0} Blank Dice"
 ITEM_INFINITY_DICE,"Кости бесконечности","item name","Infinity Dice"
 ITEM_INFINITY_DICE_DESCRIPTION,"Повышают качество {0}уникального{1} предмета","{0,1}=color","Upgrade tier of a {0}unique{1} item"
 ITEM_JINX_DICE,"Проклятые кости","item name","Jinx Dice"

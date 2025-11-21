@@ -100,6 +100,8 @@ ITEM_ASTRAL_DICE_DESCRIPTION,"非ユニークアイテムを破壊して、ラ�
 ITEM_ASTRAL_DICE_DESCRIPTION_BLUEPRINT_HINT,"非ユニークセクターを破壊して、その計画書を抽出する","","Destroy a non-unique sector to extract its Blueprint"
 ITEM_BLANK_DICE,"ブランクのサイコロ","item name","Blank Dice"
 ITEM_BLANK_DICE_DESCRIPTION,"非ユニークアイテムのレアリティを{0}コモン{1}に変更する","{0,1}=color","Change rarity of non-unique item to {0}common{1}"
+ITEM_BLANK_DICE_COUNT_ONE,"{0} ブランクのサイコロ","{0}=amount","{0} Blank Dice"
+ITEM_BLANK_DICE_COUNT_MANY,"{0} ブランクのサイコロ","{0}=amount","{0} Blank Dice"
 ITEM_INFINITY_DICE,"無限のサイコロ","item name","Infinity Dice"
 ITEM_INFINITY_DICE_DESCRIPTION,"{0}ユニーク{1}アイテムのティアをアップグレードする","{0,1}=color","Upgrade tier of a {0}unique{1} item"
 ITEM_JINX_DICE,"ジンクスのサイコロ","item name","Jinx Dice"
