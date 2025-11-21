@@ -5,7 +5,7 @@ ATTRIBUTE_FLAT_TIME,"時間に{0}","Adds flat Time, e.g +2 to Time, or -4 to Tim
 ATTRIBUTE_NON_CRITICAL_STRIKES_DEAL_NO_DAMAGE,"非クリティカルストライク攻撃はダメージを与えない","","Non-Critical Strikes deal no Damage"
 ATTRIBUTE_NON_CRITICAL_STRIKES_DEAL_MORE_DAMAGE,"非クリティカルストライク攻撃が与えるダメージが{0}増加する","{0}=percentage","Non-Critical Strikes deal {0} more Damage"
 ATTRIBUTE_NON_CRITICAL_STRIKES_DEAL_LESS_DAMAGE,"非クリティカルストライク攻撃が与えるダメージが{0}減少する","{0}=percentage","Non-Critical Strikes deal {0} less Damage"
-ATTRIBUTE_FLAT_MULTICRIT,"マルチクリティカル +{0}","Adds Multicrit, e.g. +2 Multicrit","{0} Multicrit"
+ATTRIBUTE_FLAT_MULTICRIT,"マルチクリティカル {0}","Adds Multicrit, e.g. +2 Multicrit","{0} Multicrit"
 ATTRIBUTE_INCREASED_DAMAGE_OVER_TIME,"継続ダメージが{0}増加","{0}=percentage","{0} increased Damage over Time"
 ATTRIBUTE_REDUCED_DAMAGE_OVER_TIME,"継続ダメージが{0}減少","{0}=percentage","{0} reduced Damage over Time"
 ATTRIBUTE_MORE_DAMAGE_OVER_TIME,"継続ダメージが{0}増","{0}=percentage","{0} more Damage over Time"
