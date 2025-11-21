@@ -207,7 +207,7 @@ UI_SELECT_SECTOR_CHIP_HEADLINE,"セクターチップを選択","","Select Secto
 UI_SELECT_SECTOR_HEADLINE,"セクターを選択","","Select Sector"
 UI_EQUIP_CHIP_LEVEL_REQUIREMENT_NOT_MET,"このチップにはレベル{0}が必要なため、まだ装備できません","{0}=level","This Chip requires Level {0} and cannot be equipped yet"
 UI_EQUIP_CHIP_LEVEL_LIMIT_EXCEEDED,"このチップは{0}個までしか装備できません","{0}=limit","I cannot equip more than {0} of this Chip"
-UI_EQUIP_EMPOWERED_CHIP_LIMIT_EXCEEDED,"I cannot equip more than {0} Empowered Chips","{0}=limit","I cannot equip more than {0} Empowered Chips"
+UI_EQUIP_EMPOWERED_CHIP_LIMIT_EXCEEDED,"強化されたチップは{0}個までしか装備できません","{0}=limit","I cannot equip more than {0} Empowered Chips"
 UI_SELECT_MOD_HEADLINE,"モッドを選択","","Select Mod"
 UI_NO_FITTING_MOD_IN_INVENTORY,"インベントリに適合するモッドがありません","","You do not have a fitting Mod in your inventory"
 UI_NO_MOD_IN_INVENTORY,"インベントリにモッドがありません","","You do not have a Mod in your inventory"

@@ -48,7 +48,7 @@ ITEM_CHIP_DESCRIPTION,"スキルツリーのチップソケットに装着可能
 ITEM_SECTOR_CHIP,"セクターチップ","item name","Sector Chip"
 ITEM_SECTOR_CHIP_DESCRIPTION,"「マーブルマシン」スキルツリーのソケットに装着可能","Description of Sector Chip items","Fits into a Socket on the Marble Machine Skill Tree"
 ITEM_CRIT_RIPPER,"クリティカルリッパー","item name","Crit Ripper"
-ITEM_EMPOWERED_CRIT_RIPPER,"Empowered Crit Ripper","item name","Empowered Crit Ripper"
+ITEM_EMPOWERED_CRIT_RIPPER,"強化されたクリティカルリッパー","item name","Empowered Crit Ripper"
 ITEM_DRONE_MASTER,"ドローンマスター","item name","Drone Master"
 ITEM_EMPOWERED_CHIP,"強化されたチップ","item name","Empowered Chip"
 ITEM_SINGULARITY,"シンギュラリティ","item name","Singularity"

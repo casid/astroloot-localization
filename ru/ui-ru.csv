@@ -207,7 +207,7 @@ UI_SELECT_SECTOR_CHIP_HEADLINE,"Выберите чип сектора","","Sele
 UI_SELECT_SECTOR_HEADLINE,"Выберите сектор","","Select Sector"
 UI_EQUIP_CHIP_LEVEL_REQUIREMENT_NOT_MET,"Чип нельзя использовать. Требуется уровень {0}.","{0}=level","This Chip requires Level {0} and cannot be equipped yet"
 UI_EQUIP_CHIP_LEVEL_LIMIT_EXCEEDED,"Нельзя использовать много таких чипов. Максимум {0}.","{0}=limit","I cannot equip more than {0} of this Chip"
-UI_EQUIP_EMPOWERED_CHIP_LIMIT_EXCEEDED,"I cannot equip more than {0} Empowered Chips","{0}=limit","I cannot equip more than {0} Empowered Chips"
+UI_EQUIP_EMPOWERED_CHIP_LIMIT_EXCEEDED,"Нельзя использовать более {0} усиленных чипов.","{0}=limit","I cannot equip more than {0} Empowered Chips"
 UI_SELECT_MOD_HEADLINE,"Выберите свойство","","Select Mod"
 UI_NO_FITTING_MOD_IN_INVENTORY,"В инвентаре нет подходящего свойства.","","You do not have a fitting Mod in your inventory"
 UI_NO_MOD_IN_INVENTORY,"В инвентаре нет свойства.","","You do not have a Mod in your inventory"
